@@ -62,7 +62,6 @@ string[] Shuffle(string[] array)
     return array;
 }
 
-
 bool IsSamePersonMatched(string[] names, string[] shuffledNames)
 {
     for (int i = 0; i < names.Length; i++)
