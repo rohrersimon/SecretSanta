@@ -8,7 +8,7 @@
 
 string[] names = new string[] { "Summaya", "Tabitha", "Luke", "Emily", "Saba", "Simon" }; // List of people that participate
 string[] shuffledNames = new string[names.Length];
-bool secret = true; // Switch for displaying results recretly (true) or openly (flase).
+bool secret = false; // Switch for displaying results recretly (true) or openly (flase).
 
 
 // Top level statements
