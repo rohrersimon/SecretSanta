@@ -6,7 +6,7 @@
 
 // Variables
 
-string[] names = new string[] { "Summaya", "Tabitha", "Luke", "Emily", "Saba", "Simon" }; // List of people that participate
+string[] names = new string[] { "Name1", "Name2", "Name3", "Name4", "Name5", "Name6" }; // List of people that participate
 string[] shuffledNames = new string[names.Length];
 bool secret = false; // Switch for displaying results recretly (true) or openly (flase).
 
